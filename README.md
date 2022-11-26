@@ -5,7 +5,7 @@
 
 https://dsmeta-dev-cristian.netlify.app/
 
-Dsmeta é uma aplicação full stack construída durante a **Semana SpringBoot React** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Dsmeta é uma aplicação full stack construída durante a **Semana SpringBoot React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 
 ## Layout mobile
@@ -14,6 +14,8 @@ Dsmeta é uma aplicação full stack construída durante a **Semana SpringBoot R
 ## Layout web
 ![webds](https://user-images.githubusercontent.com/112576141/202922289-8b1ff28f-4bb2-4a75-8dbe-a63018f47851.png)
 
+![swagger](https://user-images.githubusercontent.com/112576141/204087730-fc6c8f86-7a4d-4fe8-b34e-2c842d75960f.png)
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -21,6 +23,8 @@ Dsmeta é uma aplicação full stack construída durante a **Semana SpringBoot R
 - Spring Boot
 - JPA / Hibernate
 - Maven
+-H2
+
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
@@ -30,6 +34,9 @@ Dsmeta é uma aplicação full stack construída durante a **Semana SpringBoot R
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: H2
+
+## Documentação
+- Swagger
 
 # Como executar o projeto
 
